@@ -1,6 +1,6 @@
 # IMG2IMG
 
-![image](https://github.com/solmin020619/AI_Project_2026_01_3B/blob/main/IMG2IMG/00000-975572032.png?raw=true)
+![Image](00000-975572032.png)
 
 > Prompt
 
